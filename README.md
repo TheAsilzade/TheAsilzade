@@ -2,7 +2,7 @@
 
 I'm 22 years old, and I focus on building systems that go deeper than surface-level code.
 
-I’m interested in how software behaves internally — how it can be analyzed, manipulated, protected, and structured in ways that are difficult to break.
+I’m interested in how software behaves internally | how it can be analyzed, manipulated, protected, and structured in ways that are difficult to break.
 
 ---
 
@@ -48,7 +48,7 @@ My personality is reflected in the way I build and work with people.
 
 I’m generally calm, composed, and cold-blooded under pressure. I prefer to think clearly before reacting, and I try to keep a steady mindset even when things get difficult.
 
-I would describe myself as modest and serious-minded, but not distant. When the moment is right, I can also be warm and sincere. I value sincerity that does not weaken respect — I believe people can be genuine, friendly, and still carry themselves with dignity.
+I would describe myself as modest and serious-minded, but not distant. When the moment is right, I can also be warm and sincere. I value sincerity that does not weaken respect | I believe people can be genuine, friendly, and still carry themselves with dignity.
 
 ---
 
