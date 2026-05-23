@@ -22,7 +22,7 @@ I have also worked with AS3 editing through JPEXS, especially in projects where 
 
 ### How I approach building
 
-I don’t start from code — I start from ideas.
+I don’t start from code,  I start from ideas.
 
 Most of my projects begin as system concepts:
 
@@ -94,6 +94,6 @@ These roles helped me build a more grounded way of dealing with people, pressure
 
 The coding side of my projects is assisted by AI tools, but every idea, system design, structure, and logic behind them is fully my own.
 
-I use AI as a tool — not as a source of direction.
+I use AI as a tool  not as a source of direction.
 
 The concepts, behavior, and architecture you see in my projects come from my own thinking process, where I spend time breaking things down, rebuilding them, and refining even the smallest details.
