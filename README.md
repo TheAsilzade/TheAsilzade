@@ -65,7 +65,7 @@ I would describe myself as modest and serious-minded, but not distant. When the 
 * AS3 editing with JPEXS
 *Common knowledge about all technological matters/devices 
 * AI-assisted Development &  Prompt Engineering
-* B2 Level English mostly between (B1-B2)
+* C1 Level English
 
 ---
 
